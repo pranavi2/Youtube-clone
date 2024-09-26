@@ -33,12 +33,12 @@ This is a YouTube Clone project that mimics some of the core features of the You
 🚀 Getting Started
 To view the project locally:
 
-#Clone the repository:
+```Clone the repository:
 Copy code
 git clone https://github.com/your-username/YouTube-clone.git
 cd YouTube-clone
 Open grid.html in your browser to view the site.
-
+```
 📸 Screenshots
 Include some screenshots of the project in action here to show off the design and functionality.
 

@@ -18,7 +18,7 @@ This is a YouTube Clone project that mimics some of the core features of the You
 
 ## 📂 Project Structure
 
-bash
+```bash
 ├── styles/             # CSS files for styling the application
 ├── thumbnails/         # Image files used as video thumbnails
 ├── grid.html           # Main HTML file for the video grid layout
@@ -29,7 +29,7 @@ bash
 ├── originals.svg       # SVG icon for Originals
 ├── search.svg          # SVG icon for Search button
 └── README.md           # This file
-
+```
 🚀 Getting Started
 To view the project locally:
 
